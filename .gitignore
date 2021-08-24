@@ -9,9 +9,6 @@ output/
 *.so
 *.dylib
 
-*.mod
-*/*.mod
-
 # Test binary, built with `go test -c`
 *.test
 
